@@ -1,0 +1,1 @@
+[15-Aug-2026 03:26:08 Asia/Dhaka] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/nexttechltd/eee.nexttechltd.com/admin/add_alumnus.php on line 580

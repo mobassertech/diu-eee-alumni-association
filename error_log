@@ -1,0 +1,285 @@
+[12-Aug-2026 05:58:56 Asia/Dhaka] PHP Notice:  Array to string conversion in /home/nexttechltd/eee.nexttechltd.com/register-online.php on line 151
+[12-Aug-2026 06:01:08 Asia/Dhaka] PHP Notice:  Array to string conversion in /home/nexttechltd/eee.nexttechltd.com/register-online.php on line 151
+[13-Aug-2026 07:41:45 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:41:45 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:41:45 Asia/Dhaka] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:41:45 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 17
+[13-Aug-2026 07:41:45 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 17
+[13-Aug-2026 07:41:45 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 20
+[13-Aug-2026 07:41:45 Asia/Dhaka] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 20
+[13-Aug-2026 07:41:49 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:41:49 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:41:49 Asia/Dhaka] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:41:49 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 17
+[13-Aug-2026 07:41:49 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 17
+[13-Aug-2026 07:41:49 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 20
+[13-Aug-2026 07:41:49 Asia/Dhaka] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 20
+[13-Aug-2026 07:45:23 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:45:23 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:45:23 Asia/Dhaka] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:45:23 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 17
+[13-Aug-2026 07:45:23 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 17
+[13-Aug-2026 07:45:23 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 20
+[13-Aug-2026 07:45:23 Asia/Dhaka] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 20
+[13-Aug-2026 07:48:08 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:48:08 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:48:08 Asia/Dhaka] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:48:08 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 17
+[13-Aug-2026 07:48:08 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 17
+[13-Aug-2026 07:48:08 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 20
+[13-Aug-2026 07:48:08 Asia/Dhaka] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 20
+[13-Aug-2026 07:48:10 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:48:10 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:48:10 Asia/Dhaka] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:48:10 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 17
+[13-Aug-2026 07:48:10 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 17
+[13-Aug-2026 07:48:10 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 20
+[13-Aug-2026 07:48:10 Asia/Dhaka] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 20
+[13-Aug-2026 07:48:11 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:48:11 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:48:11 Asia/Dhaka] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:48:11 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 17
+[13-Aug-2026 07:48:11 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 17
+[13-Aug-2026 07:48:11 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 20
+[13-Aug-2026 07:48:11 Asia/Dhaka] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 20
+[13-Aug-2026 07:48:12 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:48:12 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:48:12 Asia/Dhaka] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:48:12 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 17
+[13-Aug-2026 07:48:12 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 17
+[13-Aug-2026 07:48:12 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 20
+[13-Aug-2026 07:48:12 Asia/Dhaka] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 20
+[13-Aug-2026 07:48:12 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:48:12 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:48:12 Asia/Dhaka] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:48:12 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 17
+[13-Aug-2026 07:48:12 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 17
+[13-Aug-2026 07:48:12 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 20
+[13-Aug-2026 07:48:12 Asia/Dhaka] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 20
+[13-Aug-2026 07:48:13 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:48:13 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:48:13 Asia/Dhaka] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:48:13 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 17
+[13-Aug-2026 07:48:13 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 17
+[13-Aug-2026 07:48:13 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 20
+[13-Aug-2026 07:48:13 Asia/Dhaka] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 20
+[13-Aug-2026 07:48:13 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:48:13 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:48:13 Asia/Dhaka] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:48:13 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 17
+[13-Aug-2026 07:48:13 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 17
+[13-Aug-2026 07:48:13 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 20
+[13-Aug-2026 07:48:13 Asia/Dhaka] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 20
+[13-Aug-2026 07:49:12 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:49:12 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:49:12 Asia/Dhaka] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:49:12 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 17
+[13-Aug-2026 07:49:12 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 17
+[13-Aug-2026 07:49:12 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 20
+[13-Aug-2026 07:49:12 Asia/Dhaka] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 20
+[13-Aug-2026 07:49:14 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:49:14 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:49:14 Asia/Dhaka] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:49:14 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 17
+[13-Aug-2026 07:49:14 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 17
+[13-Aug-2026 07:49:14 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 20
+[13-Aug-2026 07:49:14 Asia/Dhaka] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 20
+[13-Aug-2026 07:50:04 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:50:04 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:50:04 Asia/Dhaka] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:50:04 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 30
+[13-Aug-2026 07:50:04 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 30
+[13-Aug-2026 07:50:04 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 33
+[13-Aug-2026 07:50:04 Asia/Dhaka] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 33
+[13-Aug-2026 07:50:05 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:50:05 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:50:05 Asia/Dhaka] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:50:05 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 30
+[13-Aug-2026 07:50:05 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 30
+[13-Aug-2026 07:50:05 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 33
+[13-Aug-2026 07:50:05 Asia/Dhaka] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 33
+[13-Aug-2026 07:50:06 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:50:06 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:50:06 Asia/Dhaka] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:50:06 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 30
+[13-Aug-2026 07:50:06 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 30
+[13-Aug-2026 07:50:06 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 33
+[13-Aug-2026 07:50:06 Asia/Dhaka] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 33
+[13-Aug-2026 07:50:09 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:50:09 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:50:09 Asia/Dhaka] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:50:09 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 30
+[13-Aug-2026 07:50:09 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 30
+[13-Aug-2026 07:50:09 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 33
+[13-Aug-2026 07:50:09 Asia/Dhaka] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 33
+[13-Aug-2026 07:50:16 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:50:16 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:50:16 Asia/Dhaka] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:50:36 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:50:36 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:50:36 Asia/Dhaka] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:50:54 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:50:54 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:50:54 Asia/Dhaka] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:50:54 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 30
+[13-Aug-2026 07:50:54 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 30
+[13-Aug-2026 07:50:54 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 33
+[13-Aug-2026 07:50:54 Asia/Dhaka] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 33
+[13-Aug-2026 07:50:57 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:50:57 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:50:57 Asia/Dhaka] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:50:57 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 30
+[13-Aug-2026 07:50:57 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 30
+[13-Aug-2026 07:50:57 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 33
+[13-Aug-2026 07:50:57 Asia/Dhaka] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 33
+[13-Aug-2026 07:51:00 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:51:00 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:51:00 Asia/Dhaka] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:51:00 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 30
+[13-Aug-2026 07:51:00 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 30
+[13-Aug-2026 07:51:00 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 33
+[13-Aug-2026 07:51:00 Asia/Dhaka] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 33
+[13-Aug-2026 07:51:06 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:51:06 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:51:06 Asia/Dhaka] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:51:06 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 30
+[13-Aug-2026 07:51:06 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 30
+[13-Aug-2026 07:51:06 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 33
+[13-Aug-2026 07:51:06 Asia/Dhaka] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 33
+[13-Aug-2026 07:51:11 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:51:11 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:51:11 Asia/Dhaka] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:51:11 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 30
+[13-Aug-2026 07:51:11 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 30
+[13-Aug-2026 07:51:11 Asia/Dhaka] PHP Notice:  Undefined variable: conn in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 33
+[13-Aug-2026 07:51:11 Asia/Dhaka] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 33
+[13-Aug-2026 07:51:21 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:51:21 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:51:21 Asia/Dhaka] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:51:36 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:51:36 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:51:36 Asia/Dhaka] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:51:41 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:51:41 Asia/Dhaka] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:51:41 Asia/Dhaka] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 2
+[13-Aug-2026 07:55:38 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 151
+[13-Aug-2026 07:55:38 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 151
+[13-Aug-2026 07:55:38 Asia/Dhaka] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 151
+[13-Aug-2026 07:56:04 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 151
+[13-Aug-2026 07:56:04 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 151
+[13-Aug-2026 07:56:04 Asia/Dhaka] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 151
+[13-Aug-2026 07:56:08 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 151
+[13-Aug-2026 07:56:08 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 151
+[13-Aug-2026 07:56:08 Asia/Dhaka] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 151
+[13-Aug-2026 07:57:49 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 151
+[13-Aug-2026 07:57:49 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 151
+[13-Aug-2026 07:57:49 Asia/Dhaka] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alamni-members.php on line 151
+[14-Aug-2026 02:00:12 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/nexttechltd/eee.nexttechltd.com/registration-form.php on line 976
+[14-Aug-2026 02:00:12 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/nexttechltd/eee.nexttechltd.com/registration-form.php on line 1125
+[14-Aug-2026 02:00:12 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/nexttechltd/eee.nexttechltd.com/registration-form.php on line 1133
+[14-Aug-2026 02:08:20 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/nexttechltd/eee.nexttechltd.com/registration-form.php on line 976
+[14-Aug-2026 02:08:20 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/nexttechltd/eee.nexttechltd.com/registration-form.php on line 1125
+[14-Aug-2026 02:08:20 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/nexttechltd/eee.nexttechltd.com/registration-form.php on line 1133
+[14-Aug-2026 02:08:28 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/nexttechltd/eee.nexttechltd.com/registration-form.php on line 976
+[14-Aug-2026 02:08:28 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/nexttechltd/eee.nexttechltd.com/registration-form.php on line 1125
+[14-Aug-2026 02:08:28 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/nexttechltd/eee.nexttechltd.com/registration-form.php on line 1133
+[14-Aug-2026 02:08:29 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/nexttechltd/eee.nexttechltd.com/registration-form.php on line 976
+[14-Aug-2026 02:08:29 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/nexttechltd/eee.nexttechltd.com/registration-form.php on line 1125
+[14-Aug-2026 02:08:29 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/nexttechltd/eee.nexttechltd.com/registration-form.php on line 1133
+[14-Aug-2026 02:08:30 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/nexttechltd/eee.nexttechltd.com/registration-form.php on line 976
+[14-Aug-2026 02:08:30 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/nexttechltd/eee.nexttechltd.com/registration-form.php on line 1125
+[14-Aug-2026 02:08:30 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/nexttechltd/eee.nexttechltd.com/registration-form.php on line 1133
+[14-Aug-2026 02:08:31 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/nexttechltd/eee.nexttechltd.com/registration-form.php on line 976
+[14-Aug-2026 02:08:31 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/nexttechltd/eee.nexttechltd.com/registration-form.php on line 1125
+[14-Aug-2026 02:08:31 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/nexttechltd/eee.nexttechltd.com/registration-form.php on line 1133
+[14-Aug-2026 02:08:43 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/nexttechltd/eee.nexttechltd.com/registration-form.php on line 976
+[14-Aug-2026 02:08:43 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/nexttechltd/eee.nexttechltd.com/registration-form.php on line 1125
+[14-Aug-2026 02:08:43 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/nexttechltd/eee.nexttechltd.com/registration-form.php on line 1133
+[14-Aug-2026 03:22:52 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 993
+[14-Aug-2026 03:22:52 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 993
+[14-Aug-2026 03:22:52 Asia/Dhaka] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 993
+[14-Aug-2026 03:22:59 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 993
+[14-Aug-2026 03:22:59 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 993
+[14-Aug-2026 03:22:59 Asia/Dhaka] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 993
+[14-Aug-2026 03:23:02 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 993
+[14-Aug-2026 03:23:02 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 993
+[14-Aug-2026 03:23:02 Asia/Dhaka] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 993
+[14-Aug-2026 03:23:56 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 846
+[14-Aug-2026 03:23:56 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 846
+[14-Aug-2026 03:23:56 Asia/Dhaka] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 846
+[14-Aug-2026 03:23:59 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 846
+[14-Aug-2026 03:23:59 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 846
+[14-Aug-2026 03:23:59 Asia/Dhaka] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 846
+[14-Aug-2026 03:24:04 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 846
+[14-Aug-2026 03:24:04 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 846
+[14-Aug-2026 03:24:04 Asia/Dhaka] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 846
+[14-Aug-2026 03:27:23 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 891
+[14-Aug-2026 03:27:23 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 891
+[14-Aug-2026 03:27:23 Asia/Dhaka] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 891
+[14-Aug-2026 03:27:27 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 891
+[14-Aug-2026 03:27:27 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 891
+[14-Aug-2026 03:27:27 Asia/Dhaka] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 891
+[14-Aug-2026 03:27:37 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 891
+[14-Aug-2026 03:27:37 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 891
+[14-Aug-2026 03:27:37 Asia/Dhaka] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 891
+[14-Aug-2026 03:27:44 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 891
+[14-Aug-2026 03:27:44 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 891
+[14-Aug-2026 03:27:44 Asia/Dhaka] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 891
+[14-Aug-2026 03:27:49 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 891
+[14-Aug-2026 03:27:49 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 891
+[14-Aug-2026 03:27:49 Asia/Dhaka] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 891
+[14-Aug-2026 03:27:55 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 891
+[14-Aug-2026 03:27:55 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 891
+[14-Aug-2026 03:27:55 Asia/Dhaka] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 891
+[14-Aug-2026 03:28:30 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 891
+[14-Aug-2026 03:28:30 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 891
+[14-Aug-2026 03:28:30 Asia/Dhaka] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 891
+[14-Aug-2026 03:30:22 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 809
+[14-Aug-2026 03:30:22 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 809
+[14-Aug-2026 03:30:22 Asia/Dhaka] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 809
+[14-Aug-2026 03:37:22 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/join-with-us.php on line 414
+[14-Aug-2026 03:37:22 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/join-with-us.php on line 414
+[14-Aug-2026 03:37:22 Asia/Dhaka] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/join-with-us.php on line 414
+[14-Aug-2026 03:40:12 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/join-with-us.php on line 625
+[14-Aug-2026 03:40:12 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/join-with-us.php on line 625
+[14-Aug-2026 03:40:12 Asia/Dhaka] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/join-with-us.php on line 625
+[14-Aug-2026 03:40:14 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/join-with-us.php on line 625
+[14-Aug-2026 03:40:14 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/join-with-us.php on line 625
+[14-Aug-2026 03:40:14 Asia/Dhaka] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/join-with-us.php on line 625
+[14-Aug-2026 03:41:07 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/join-with-us.php on line 625
+[14-Aug-2026 03:41:07 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/join-with-us.php on line 625
+[14-Aug-2026 03:41:07 Asia/Dhaka] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/join-with-us.php on line 625
+[14-Aug-2026 03:41:10 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/join-with-us.php on line 625
+[14-Aug-2026 03:41:10 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/join-with-us.php on line 625
+[14-Aug-2026 03:41:10 Asia/Dhaka] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/join-with-us.php on line 625
+[14-Aug-2026 03:41:32 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/join-with-us.php on line 625
+[14-Aug-2026 03:41:32 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/join-with-us.php on line 625
+[14-Aug-2026 03:41:32 Asia/Dhaka] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/join-with-us.php on line 625
+[14-Aug-2026 03:43:06 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/join-with-us.php on line 400
+[14-Aug-2026 03:43:06 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/join-with-us.php on line 400
+[14-Aug-2026 03:43:06 Asia/Dhaka] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/join-with-us.php on line 400
+[14-Aug-2026 03:44:42 Asia/Dhaka] PHP Warning:  require_once(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/join-with-us.php on line 4
+[14-Aug-2026 03:44:42 Asia/Dhaka] PHP Fatal error:  require_once(): Failed opening required 'header.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/join-with-us.php on line 4
+[14-Aug-2026 03:44:45 Asia/Dhaka] PHP Warning:  require_once(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/join-with-us.php on line 4
+[14-Aug-2026 03:44:45 Asia/Dhaka] PHP Fatal error:  require_once(): Failed opening required 'header.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/join-with-us.php on line 4
+[14-Aug-2026 03:44:46 Asia/Dhaka] PHP Warning:  require_once(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/join-with-us.php on line 4
+[14-Aug-2026 03:44:46 Asia/Dhaka] PHP Fatal error:  require_once(): Failed opening required 'header.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/join-with-us.php on line 4
+[14-Aug-2026 03:48:27 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/join-with-us.php on line 325
+[14-Aug-2026 03:48:27 Asia/Dhaka] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/join-with-us.php on line 325
+[14-Aug-2026 03:48:27 Asia/Dhaka] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/join-with-us.php on line 325
+[14-Aug-2026 03:51:25 Asia/Dhaka] PHP Notice:  session_start(): A session had already been started - ignoring in /home/nexttechltd/eee.nexttechltd.com/join-with-us.php on line 325
+[14-Aug-2026 03:51:39 Asia/Dhaka] PHP Notice:  session_start(): A session had already been started - ignoring in /home/nexttechltd/eee.nexttechltd.com/join-with-us.php on line 325
+[14-Aug-2026 03:52:31 Asia/Dhaka] PHP Notice:  session_start(): A session had already been started - ignoring in /home/nexttechltd/eee.nexttechltd.com/join-with-us.php on line 325
+[15-Aug-2026 04:29:15 Asia/Dhaka] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/nexttechltd/eee.nexttechltd.com/includes/header.php on line 12
+[15-Aug-2026 04:29:17 Asia/Dhaka] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/nexttechltd/eee.nexttechltd.com/includes/header.php on line 12
+[15-Aug-2026 04:29:41 Asia/Dhaka] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/nexttechltd/eee.nexttechltd.com/includes/header.php on line 12
+[15-Aug-2026 04:29:53 Asia/Dhaka] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/nexttechltd/eee.nexttechltd.com/includes/header.php on line 12
+[15-Aug-2026 04:29:56 Asia/Dhaka] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/nexttechltd/eee.nexttechltd.com/includes/header.php on line 12
+[15-Aug-2026 04:30:10 Asia/Dhaka] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/nexttechltd/eee.nexttechltd.com/includes/header.php on line 12
+[15-Aug-2026 04:30:22 Asia/Dhaka] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/nexttechltd/eee.nexttechltd.com/includes/header.php on line 12
+[15-Aug-2026 04:32:03 Asia/Dhaka] PHP Warning:  include(includes/global_styles.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 363
+[15-Aug-2026 04:32:03 Asia/Dhaka] PHP Warning:  include(includes/global_styles.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 363
+[15-Aug-2026 04:32:03 Asia/Dhaka] PHP Warning:  include(): Failed opening 'includes/global_styles.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 363
+[15-Aug-2026 04:32:05 Asia/Dhaka] PHP Warning:  include(includes/global_styles.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 363
+[15-Aug-2026 04:32:05 Asia/Dhaka] PHP Warning:  include(includes/global_styles.php): failed to open stream: No such file or directory in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 363
+[15-Aug-2026 04:32:05 Asia/Dhaka] PHP Warning:  include(): Failed opening 'includes/global_styles.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nexttechltd/eee.nexttechltd.com/alumni-members.php on line 363
